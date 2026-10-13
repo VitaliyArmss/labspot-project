@@ -12,7 +12,7 @@
 
 | Роль | Email | Пароль |
 |---|---|---|
-| Администратор | `admin@labslot.local` | `90c99e9efad94265760d601815efc6be` |
+| Администратор | `admin@labslot.local` | `Admin123!` |
 | Пользователь | `demo@labslot.local` | `Demo123!` |
 
 ---
